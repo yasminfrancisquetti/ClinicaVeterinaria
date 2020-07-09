@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClinicaVeterinaria</string>
+    <string name="insira_nome">INFORME O NOME DO PET:</string>
+    <string name="genero_macho">MACHO</string>
+    <string name="genero_femea">FÊMEA </string>
+    <string name="insira_cpf">INSIRA SEU CPF:</string>
+    <string name="btn_continuar">CONTINUAR</string>
+    <string name="bem_vindo">SEJA BEM VINDO(A)!</string>
+</resources>
